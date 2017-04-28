@@ -83,6 +83,9 @@ and please spread the word using the `#RubyNLP` hash tag!
 <!-- tocstop -->
 
 <!-- doc -->
+## Tutorials
+
+Add some tutorials.
 
 ## NLP Pipeline Subtasks
 
